@@ -1,5 +1,5 @@
 # Made by Devroop Banerjee
-# Generate a random number between 0 - 10.
+# Generate a random number between a range chosen by user
 # Tell user whether they need to go higher or lower
 # Return the number of attempts it took
 
